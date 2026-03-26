@@ -1,0 +1,5 @@
+{
+  "name": "Expense Tracker",
+  "description": "A personal expense tracker with Google login, category breakdown, and a visual pie chart.",
+  "requestFramePermissions": []
+}
